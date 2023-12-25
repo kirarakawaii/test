@@ -9,7 +9,7 @@ public class Test {
         System.out.println("\"hi\" = " + "hi");
         System.out.println("\"测试1\" = " + "测试1");
         System.out.println("\"演示\" = " + "演示");
-        System.out.println("\"推送到远程仓库\" = " + "推送到远程仓库11111");
+        System.out.println("\"推送到远程仓库\" = " + "推送到远程仓库2222");
         System.out.println("\"拉取到远程仓库\" = " + "拉取到远程仓库");
     }
 
