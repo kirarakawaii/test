@@ -5,7 +5,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("\"你好\" = " + "你好");
         System.out.println("\"你好\" = " + "你好");
-        System.out.println("\"hello\" = " + "hello");
+        System.out.println("\"演示冲突\" = " + "演示冲突");
         System.out.println("\"hi\" = " + "hi");
     }
 
